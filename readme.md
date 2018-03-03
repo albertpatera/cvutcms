@@ -56,3 +56,6 @@ License
 -------
 - Nette: New BSD License or GPL 2.0 or 3.0
 - Adminer: Apache License 2.0 or GPL 2
+
+
+Commit
